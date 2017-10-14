@@ -1,0 +1,6 @@
+#This is a description file.
+     *.txt files are strongly suggested for this programm and two demos are given for both Chinese and English.
+Usage:
+    *Option！！Choose File : To choose .txt file from your computer. 
+    *Option！！Demo : There's a given demo. You can learn how dose it work.
+    *Option！！Custom : To edit your own text and search for the pattern. 

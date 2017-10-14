@@ -1,0 +1,6 @@
+The file chooser is only applicable for .txt files.
+Usage:
+    *Option-Choose File : To choose .txt file from your computer.
+    *Option-Demo : There's a given demo. You can learn how dose it work.
+    *Option-Custom : To edit your own text and search for the pattern.
+PostScript: The former two modes are both unedittable.
